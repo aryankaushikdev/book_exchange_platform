@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "title": "A timeless classic exploring the American Dream, love, and the Jazz Age.",
+    "price": 150,
+    "category": "Fiction",
+    "image": "https://m.media-amazon.com/images/I/51tyC7s8F+L._SX342_SY445_.jpg",
+    "bookOwner": "John",
+    "contact": "9392574678"
+  },
+  {
+    "id": 2,
+    "name": "Sapiens: A Brief History of Humankind",
+    "title": "A thought-provoking exploration of the history of Homo sapiens, from the emergence of our species to the present day.",
+    "price": 100,
+    "category": "Non-Fiction",
+    "image": "https://m.media-amazon.com/images/I/41yu2qXhXXL._SY445_SX342_.jpg",
+    "bookOwner": "Merry",
+    "contact": "9876543210"
+  },
+  {
+    "id": 3,
+    "name": "Good Omens",
+    "title": "A hilarious and irreverent take on the apocalypse, filled with wit and satire.",
+    "price": 200,
+    "category": "Humour",
+    "image": "https://m.media-amazon.com/images/I/51VbFVmVxtL._SX342_SY445_.jpg",
+    "bookOwner": "Ram",
+    "contact": "9876543220"
+  },
+  {
+    "id": 4,
+    "name": "Cosmos",
+    "title": "An awe-inspiring journey through space and time, exploring the wonders of the universe and our place within it.",
+    "price": 250,
+    "category": "Education / Science",
+    "image": "https://m.media-amazon.com/images/I/31tswEHCsSL._SY445_SX342_.jpg",
+    "bookOwner": "Shelly",
+    "contact": "9876543230"
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "title": "The first book in the beloved series about a young wizard's adventures at Hogwarts School of Witchcraft and Wizardry.",
+    "price": 110,
+    "category": "Kids",
+    "image": "https://m.media-amazon.com/images/I/51dOacmuzvL._SY445_SX342_.jpg",
+    "bookOwner": "Tom",
+    "contact": "9876543240"
+  },
+  {
+    "id": 6,
+    "name": "To Kill a Mockingbird",
+    "title": "A powerful and timeless novel that addresses racial injustice and moral growth in the American South.",
+    "price": 180,
+    "category": "Novels",
+    "image": "https://m.media-amazon.com/images/I/51Z9p5AecCL._SY445_SX342_.jpg",
+    "bookOwner": "Krish",
+    "contact": "9876543250"
+  },
+  {
+    "id": 7,
+    "name": "Interpreter of Maladies",
+    "title": "A collection of beautifully written short stories that explore the immigrant experience, family dynamics, and cultural identity.",
+    "price": 250,
+    "category": "Short Stories",
+    "image": "https://m.media-amazon.com/images/I/51pMLaxVm7L._SY445_SX342_.jpg",
+    "bookOwner": "Krish",
+    "contact": "9876543260"
+  },
+  {
+    "id": 8,
+    "name": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "title": "A compelling exploration of the science behind habit formation and how understanding habits can transform our lives.",
+    "price": 300,
+    "category": "Self-help",
+    "image": "https://m.media-amazon.com/images/I/41K-XzBJz2L._SY445_SX342_.jpg",
+    "bookOwner": "Maria",
+    "contact": "9876543270"
+  },
+  {
+    "id": 9,
+    "name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "title": "A groundbreaking book that offers valuable insights into building and scaling startups by applying lean principles.",
+    "price": 500,
+    "category": "Corporate",
+    "image": "https://m.media-amazon.com/images/I/61BFOf9Ap-L._SL1200_.jpg",
+    "bookOwner": "Meenu",
+    "contact": "9876543280"
+  },
+  {
+    "id": 10,
+    "name": "Eat, Pray, Love",
+    "title": "A memoir about one woman's journey of self-discovery through travel, food, and spiritual exploration.",
+    "price": 250,
+    "category": "Travel & Food",
+    "image": "https://m.media-amazon.com/images/I/51TkrSqidAL._SY445_SX342_.jpg",
+    "bookOwner": "Suzi",
+    "contact": "9876543290"
+  },
+  {
+    "id": 11,
+    "name": "The Girl with the Dragon Tattoo",
+    "title": "A gripping and intricately plotted thriller featuring journalist Mikael Blomkvist and hacker Lisbeth Salander as they unravel a decades-old mystery.",
+    "price": 230,
+    "category": "Crime & Thriller",
+    "image": "https://m.media-amazon.com/images/I/81YW99XIpJL._SL1500_.jpg",
+    "bookOwner": "John",
+    "contact": "9876543300"
+  },
+  {
+    "id": 12,
+    "name": "The Audacity of Hope: Thoughts on Reclaiming the American Dream",
+    "title": "A compelling exploration of politics, race, and democracy by the former President of the United States, offering hope and optimism for the future.",
+    "price": 200,
+    "category": "Politics",
+    "image": "https://m.media-amazon.com/images/I/71vaGZkoCeL._SL1500_.jpg",
+    "bookOwner": "Rechard",
+    "contact": "9876543310"
+  },
+  {
+    "id": 13,
+    "name": "Diary of a Wimpy Kid",
+    "title": "Follow the hilarious misadventures of middle schooler Greg Heffley as he navigates the ups and downs of adolescence through his illustrated diary entries.",
+    "price": 80,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/81h0s7NqItL._SL1500_.jpg",
+    "bookOwner": "Sonia",
+    "contact": "9876543320"
+  },
+  {
+    "id": 14,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "title": "Join Harry Potter as he discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry in this enchanting tale of friendship, bravery, and adventure.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
+    "bookOwner": "Raj",
+    "contact": "987654330"
+  },
+  {
+    "id": 15,
+    "name": "Percy Jackson and the Lightning Thief",
+    "title": "Embark on an epic journey with Percy Jackson, a modern-day demigod and son of Poseidon, as he battles mythological monsters and unravels the mysteries of his heritage.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/81CjMvMA0gL._SL1500_.jpg",
+    "bookOwner": "Dev",
+    "contact": "9876543340"
+  },
+  {
+    "id": 16,
+    "name": "Wonder",
+    "title": "Explore the heartwarming story of Auggie Pullman, a boy with facial differences, as he navigates the challenges of fitting in at a new school and teaches others about acceptance and kindness.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/7195o6gMA9L._SL1500_.jpg",
+    "bookOwner": "Rosy",
+    "contact": "9876543210"
+  },
+  {
+    "id": 17,
+    "name": "The One and Only Ivan",
+    "title": "Follow the extraordinary journey of Ivan, a silverback gorilla living in captivity, as he discovers the power of friendship, art, and hope in this touching tale inspired by true events.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/712MggYvU8L._SL1500_.jpg",
+    "bookOwner": "Ira",
+    "contact": "9876543350"
+  }
+]
